@@ -1,6 +1,7 @@
 # chaosrandomizer
 
 CHAOS! CHAOS! CHAOS! 
+
 ALL Releases here: [CLICK HERE](https://github.com/g4ucheyy/chaos-randomizer/tags)
 
 ## Setup
