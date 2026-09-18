@@ -1,6 +1,7 @@
 # chaosrandomizer
 
 CHAOS! CHAOS! CHAOS! 
+Blog: https://g4ucheyy.github.io/gaucheysblog/index.html
 
 ALL Releases here: [CLICK HERE](https://github.com/g4ucheyy/chaos-randomizer/tags)
 
