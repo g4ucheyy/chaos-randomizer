@@ -5,6 +5,11 @@ Blog: https://g4ucheyy.github.io/gaucheysblog/index.html
 
 ALL Releases here: [CLICK HERE](https://github.com/g4ucheyy/chaos-randomizer/tags)
 
+## Requirements
+
+Minecraft Java (Fabric) version 1.21.11
+Fabric loader
+
 ## Setup
 
 For setup instructions, please see the [Fabric Documentation page](https://docs.fabricmc.net/develop/getting-started/creating-a-project#setting-up) related to the IDE that you are using.
