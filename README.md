@@ -8,6 +8,7 @@ ALL Releases here: [CLICK HERE](https://github.com/g4ucheyy/chaos-randomizer/tag
 ## Requirements
 
 Minecraft Java (Fabric) version 1.21.11
+
 Fabric loader
 
 ## Setup
